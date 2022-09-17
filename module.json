@@ -2,7 +2,7 @@
 "name": "additionalproperties", 
 "title": "Additional Properties",
 "description": "Adds properties",
-"version": "0.1", 
+"version": "0.5", 
 "author": "Fumblemunky", 
 "systems": ["dnd5e"], 
 "styles": [], 
