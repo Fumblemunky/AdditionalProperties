@@ -1,5 +1,6 @@
 Hooks.on('ready', () => {
 CONFIG.DND5E.weaponProperties['advanced'] = 'Advanced';
+CONFIG.DND5E.weaponProperties['burst fire'] = 'Burst Fire';
 CONFIG.DND5E.weaponProperties['bypass'] = 'Bypass';
 CONFIG.DND5E.weaponProperties['cavalry'] = 'Cavalry';
 CONFIG.DND5E.weaponProperties['ensnaring'] = 'Ensnaring';
